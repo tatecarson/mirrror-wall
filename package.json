@@ -42,7 +42,7 @@
     "choo-service-worker": "^2.4.0",
     "color-contrast": "0.0.1",
     "copy-to-clipboard": "^3.0.8",
-    "file-type": "^10.1.0",
+    "file-type": "^16.5.4",
     "flush-write-stream": "^1.0.3",
     "hyperdb": "^3.5.0",
     "hyperid": "^1.4.1",
